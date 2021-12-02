@@ -1,5 +1,5 @@
 # PythonGrading
-Course Grading Using Python. Run the Grading_Git.ipnyb file
+Course Grading Using Python. Run the Grading_Git.ipynb file
 
 -Students are grouped based on type. Each type can have their own grading scheme
 
