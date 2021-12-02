@@ -1,5 +1,5 @@
 # PythonGrading
-Course Grading Using Python. Run the Grading_Git.ipynb file
+Course Grading Using Python. Run the Grading_Git.ipynb file on Google Colab
 
 -Students are grouped based on type. Each type can have their own grading scheme
 
